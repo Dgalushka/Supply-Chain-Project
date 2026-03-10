@@ -7,18 +7,18 @@ Built a demand forecasting model achieving ~5% mean error,
 applicable to replenishment planning and stock optimisation.
 
 ## Dataset
-DataCo Supply Chain Dataset — 180,519 orders across multiple 
+DataCo Supply Chain Dataset - 180,519 orders across multiple 
 regions, product categories, and shipping modes (2015–2018).
 
 ## What's Inside
-- **Data cleaning & preparation** — handling nulls, duplicates, 
+- **Data cleaning & preparation** - handling nulls, duplicates, 
   column standardisation, outlier removal
-- **Exploratory Data Analysis** — delivery performance, regional 
+- **Exploratory Data Analysis** - delivery performance, regional 
   trends, order patterns over time
-- **ABC Inventory Analysis** — categorised 118 products by revenue 
+- **ABC Inventory Analysis** - categorised 118 products by revenue 
   contribution (A/B/C), identifying that 7 products drive ~77% 
   of total revenue
-- **Demand Forecasting** — Facebook Prophet model on weekly order 
+- **Demand Forecasting** - Facebook Prophet model on weekly order 
   data, achieving MAE of ~122 units (~5% of mean weekly demand)
 
 ## Key Results
