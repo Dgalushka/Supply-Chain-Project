@@ -32,6 +32,8 @@ regions, product categories, and shipping modes (2015–2018).
 ## Tech Stack
 Python · Pandas · Prophet · Scikit-learn · Plotly · Seaborn
 
+<img width="1288" height="560" alt="image" src="https://github.com/user-attachments/assets/9fab773b-9406-4126-908d-ecc61fe04111" />
+
 ## Next Steps
 - Investigate 2018 demand drop and retrain model on post-drop data
 - Build classification model for late delivery / fraud prediction
